@@ -5,6 +5,7 @@ This is the first day of the capstone kickoff meeting.
 
 ## May 3
 
+Today we had a talk with someone from Seasalt.AI. She gave us much useful 
 ### Logging is the best practice
 
 If your code is being deployed, it becomes much more difficult to troubleshoot. A log file is saved somewhere else so that 
@@ -25,7 +26,8 @@ It can package and run an application in an isolated environment called a contai
 
 It is a portable, extensible, open source platform for managing containerized workloads. It acts like a clustering service which can manage all the resources, and schedule them. In the deployment stage, it defines the structure of the containers.
 
-The overview of the image below is that whatever requests come from the website, 
+The overview of the [image](https://github.com/Georgeanna-Li/Capstone_CFI/blob/df76ea0a0832a864252f24ed42c1f8c5d17b8995/Screen%20Shot%202022-05-03%20at%2009.52.36.png) below is that whatever requests come from the website, there will be an `ingress` that's asking for services. And the services will route to available pods.
+
 
 
 ### CI/CD
