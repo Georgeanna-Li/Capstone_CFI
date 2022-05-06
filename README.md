@@ -53,6 +53,16 @@ Remember that soemtimes the naive method is the best choice - we don't have to t
 
 
 
+## May 4th
+
+Today we met with our capstone partner Pavel from CFI, we proposed several strategies after carrying out EDA. We agreed on taking the first step on script text analysis where we use the script of each course as input, and the overall ratings of the course as labels, to train a model that can predict the quality of the script.
+
+Later we can expand the idea to other categories such as customer user engagement etc.
+
+## May 5th 
+
+Today I read this article on [objective functions of regression and classification](https://medium.com/@bhanuyerra/objective-functions-used-in-machine-learning-9653a75363b5).
+
 
 
 
