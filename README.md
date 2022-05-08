@@ -65,4 +65,13 @@ Today I read this article on [objective functions of regression and classificati
 
 
 
+## May 6th
+
+Case scenario: there's a company called TRUECAR. It's an online car selling platform. Every time a customer comes, the website will choose five top dealers for the customer based on its recommendation system.
+
+(1) assume that TRUECAR gets $300 per successful deal regardless of the deal price. How would you recommend the top three dealers each time?
+A: I would build up a classification system based on the label of 0(unsuccessful deal) and 1(successful deal). Using features such as the distance between the customer and the dealer, the customer user profile, their historical user behavior, this binary classification model predicts how likely the deal is to be made. Then I can rank them based on the probabilities and pick the top three dealers.
+
+(2) now we know that TRUECAR offers a subscription plan to the dealers: for example, if they pay $1000 per month, we guarantee them that there will be 100 matches for them. If we fail to reach that number, we will give them back the proportion of the money. That being said, if we only give them 90 matches, we will give a refund of $100 at the end of the month. How would you modify the model you built?
+A: This time I would take into account of the money the platform earns each time. I would multiply the probability by the money earned to rank the dealers and make recommendations.
 
