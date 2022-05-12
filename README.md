@@ -77,3 +77,20 @@ A: I would build up a classification system based on the label of 0(unsuccessful
 
 A: This time I would take into account of the money the platform earns each time. I would multiply the probability by the money earned to rank the dealers and make recommendations.
 
+
+## May 9th
+
+Today we met with Jungyeul to discuss what we need to do for the text script extraction. He shared with us some [useful information like this article](https://medium.com/analytics-vidhya/text-classification-with-bert-using-transformers-for-long-text-inputs-f54833994dfd). And we are going to explore LongTransformer on it.
+
+## May 10th
+
+Today I tried to use `pysrt` model to clean the text data.
+
+## May 11th
+
+Today we met with Pavel, talked about what we did in this week. My main job is to extract linguistics features from the script and make suggestions on what aspect to be improved.
+
+
+## May 12th
+
+Looked for more linguistics features online and plug them into our model to see which features play the most important role.
