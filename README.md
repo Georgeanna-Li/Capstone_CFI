@@ -94,3 +94,10 @@ Today we met with Pavel, talked about what we did in this week. My main job is t
 ## May 12th
 
 Looked for more linguistics features online and plug them into our model to see which features play the most important role.
+
+
+## May 13th
+
+Today I attended the speaker series from Scott, a current linguistics engineer at Amazon. He introduced the workflow from the product team to the long-term debugging lifecycle of a linguistics engineer.
+
+
