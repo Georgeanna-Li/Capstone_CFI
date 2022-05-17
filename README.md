@@ -101,3 +101,10 @@ Looked for more linguistics features online and plug them into our model to see 
 Today I attended the speaker series from Scott, a current linguistics engineer at Amazon. He introduced the workflow from the product team to the long-term debugging lifecycle of a linguistics engineer.
 
 
+## May 16th
+
+Today we had a meeting with Jungyeul, and also shared our doubts with him. We are not sure what he meaned by "label" and "feature". We don't want to go with the LongTransformer and take raw text as input. We are going to try regression model first and see how those features are having impact on our final result.
+
+## May 17th
+
+I completed the regression model and conducted feature importance analysis.
