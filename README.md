@@ -108,3 +108,12 @@ Today we had a meeting with Jungyeul, and also shared our doubts with him. We ar
 ## May 17th
 
 I completed the regression model and conducted feature importance analysis.
+
+## May 18th
+
+I learned more about pandas dataframe.
+
+## May 19th
+
+I did SHAP analysis on the features that I extracted from the script.
+
