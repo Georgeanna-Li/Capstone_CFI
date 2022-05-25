@@ -117,3 +117,13 @@ I learned more about pandas dataframe.
 
 I did SHAP analysis on the features that I extracted from the script.
 
+## May 20th
+
+I talked to my team members for what I did on the linguistics features. And we discussed what we wanted to do next week.
+
+## May 21th
+
+
+
+
+
