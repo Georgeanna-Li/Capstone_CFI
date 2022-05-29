@@ -121,9 +121,13 @@ I did SHAP analysis on the features that I extracted from the script.
 
 I talked to my team members for what I did on the linguistics features. And we discussed what we wanted to do next week.
 
-## May 21th
+## May 24th
 
+We have a meeting among our group members and we decided to look at features that could potentially influence the 
 
+## May 25th
+
+I started the training course on Kubernetes. The development of container is a huge step forward for all software developments. 
 
 
 
