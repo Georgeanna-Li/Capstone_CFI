@@ -130,4 +130,12 @@ We have a meeting among our group members and we decided to look at features tha
 I started the training course on Kubernetes. The development of container is a huge step forward for all software developments. 
 
 
+## May 26th 
+
+The product team will propose something that they believe humans will tell Alexa to do. They come up with some excaamples and desired output. Then the engineering team will take a closer look at what they could do to the NLU model. 
+
+ML models: expensive, but generalizes well
+
+Scott also mentions that they are always on call to fix bugs. There isn’t always an obvious solution – there could be a million ways that something could go wrong. So the core of the job is always to keep a learning attitude at work.
+![image](https://user-images.githubusercontent.com/58687912/171513178-564c6256-b020-45b4-ace7-e682c0328c8d.png)
 
