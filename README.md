@@ -137,5 +137,19 @@ The product team will propose something that they believe humans will tell Alexa
 ML models: expensive, but generalizes well
 
 Scott also mentions that they are always on call to fix bugs. There isn’t always an obvious solution – there could be a million ways that something could go wrong. So the core of the job is always to keep a learning attitude at work.
-![image](https://user-images.githubusercontent.com/58687912/171513178-564c6256-b020-45b4-ace7-e682c0328c8d.png)
+
+## May 27th
+
+We made the presentation for next week. The whole group discussed what should be done in the next stage of the project.
+
+## May 30th
+
+I applied for more jobs, including data science positions and machine learning positions.
+
+## May 31th
+
+
+
+
+
 
