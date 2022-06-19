@@ -148,9 +148,16 @@ I applied for more jobs, including data science positions and machine learning p
 
 ## May 31th
 
+Today I learned about [mutually exclusive events and independent events](https://byjus.com/maths/difference-between-mutually-exclusive-and-independent-events/#:~:text=The%20difference%20between%20mutually%20exclusive,occurrence%20of%20the%20other%20event.). 
+
+The biggest difference is that mutually exclusive events means that either A will happen or either B will happen. Mutually exclusive indicates P(X and Y) = 0.
+
+However, independent events can still have overlap in between them. Independence means P(X and Y) = P(X)P(Y).
 
 
 ## June 10th
+
+[How to calculate the percentage under the normal distribution?](https://www.math.stonybrook.edu/~retakh/ams102/normal#:~:text=Consider%20the%20normal%20distribution%20N,P(z%20%3C%200.53).)
 
 
 
