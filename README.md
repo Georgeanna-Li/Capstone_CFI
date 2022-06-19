@@ -150,6 +150,120 @@ I applied for more jobs, including data science positions and machine learning p
 
 
 
+## June 10th
 
 
 
+
+## June 13th
+
+Today in the group we were discussing how to make our final presentation. We are trying to tell a story through the whole slides. Zimo is going to do the introduction part, then it's me introducting the NPS score, and then Chao Ding is responsible for explaining the model and the model performance. The final part is me and Jiang talking about data visualization.
+
+## June 14th
+
+Today we had a meeting with Jungyuel and Ryan to discuss if there's anything that we can improve in our final presentation slides. He mentioned some slides are too technical for managers to understand. We should keep the slides as simple as possible.
+
+## June 15th
+
+Today we went to downtown CFI office to do the presentation. Pavel gave us a lot of useful advice:
+Slides suggestions:
+
+1. Most important: simply the outline. 
+    1. - Methodology 
+    2. - machine learning model
+    3. - Takeaways  (how to use this like this, what we can do more about this, where you can expect from this project in 6 months time
+
+In the slides today, we are going to talk about the mothodology, ..
+
+2. END OF COURSE SURVEY
+The first line should tell people what this slide is about
+“The survey has 5 questions, and the most important one is ***, and also there’s one question “
+Entries and columns don’t needed
+List five bullets points of the survey
+
+3. Put the COURSE TRANSCRIPT and the previous one in one slide
+Just show two or three of the course
+“Each course is broke into sections, and they have timestamps for each line”
+If you feel like they don’t need to know this kind of detail, you can exclude it
+
+4. LINGUISTIC FEATURES: important
+They have known the data source, and how do we logically separate this ? Are the linguistics features belong to the model? Or is it universal for everything?
+“From the data source, we created the linguistics features, ***”
+Take the EXTRA part out, take the count of courses out, for `summary statistics`, make each one a bullet/dash, few words introducing what this is.
+
+Each bullet point can be a separate slide:
+Why this is important? (In this part we are preparing people for the final model, the features)
+For the  `sentiment	 analysis` and the `readability score` we have to introduce them more. Have an example for each one, you don’t have to go through them during the presentation, but keep it there for them to see.
+Just keep one readability score there, quickly elaborate what this is. You can even stop on the point and see if there’s any questions. 
+
+
+How do we transition into this? 
+Just need a little part of each features
+
+You can have question- answer pattern in the slides
+
+5. NPS score
+Start with the second slide, “this is the standard way of calculating the NPS score”, and then show the converted part of 
+One bullet point: the distribution part looks pretty good, interesting to find a benchmark of the industry level of the courses. “You can always know how you are doing in the industry.”
+
+6. Models with section level data
+“Advanced machine learning model to predict the  NPS score”
+This page is too technical. 
+“We are very confident about the model”
+If you put R2, then you will have to explain what the r2 is.
+The more you go into technical terms, the easier you will lose them.
+
+7. MODls trained with 
+“This is something that will impact the model most. ”
+How is chapter_count the most important feature?
+“The chapter count will impact the model the most”.
+“In my mind, if I see a course with 10 chapters whereas a course with 3 chapters”
+How to say about the program？？
+
+8. Color coded the 
+Blue + orange / red + green
+Put two courses together, we can see two levels
+Bullet point, and space between (format it better)
+Don’t need to say “SHAP VALUE”
+
+9. FEATURE OUTLIERS
+2nd page: two circles, have two courses side by side
+“We need more  ”
+Coherence meaning (…)
+
+10. Introduce the section count (what is video level)
+
+FMVA courses recommended (core courses) - change one
+ESG: in the last pages  environmental social governance 
+New requirements in the company you have to keep green
+
+Just keep the first one
+
+REMEMBER to pause, allow the users to think 
+Don’t be afraid of the pause and the silence
+
+## June 16th
+
+I reviewed some math concepts including cross product, dot product, mutually exclusive, and independent events.
+
+## June 17th
+
+I did a machine learning job screening test, one of the questions is: [Count of distinct graphs that can be formed with N vertices](https://www.geeksforgeeks.org/count-of-distinct-graphs-that-can-be-formed-with-n-vertices/).
+
+Given an integer N which is the number of vertices. The task is to find the number of distinct graphs that can be formed. Since the answer can be very large, print the answer % 1000000007.
+
+EXAMPLE:
+Input: N = 3 
+Output: 8
+Input: N = 4 
+Output: 64 
+
+Approach: 
+ 
+
+The maximum number of edges a graph with N vertices can contain is X = N * (N – 1) / 2.
+The total number of graphs containing 0 edge and N vertices will be XC0
+The total number of graphs containing 1 edge and N vertices will be XC1
+And so on from a number of edges 1 to X with N vertices
+Hence, the total number of graphs that can be formed with n vertices will be:
+XC0 + XC1 + XC2 + … + XCX = 2X.
