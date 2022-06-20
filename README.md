@@ -274,3 +274,9 @@ The total number of graphs containing 1 edge and N vertices will be XC1
 And so on from a number of edges 1 to X with N vertices
 Hence, the total number of graphs that can be formed with n vertices will be:
 XC0 + XC1 + XC2 + … + XCX = 2X.
+
+## June 20th
+
+Today we are finalizing the report for the mentor for review. We are dividing the work and putting up the chapters together.
+
+## June 21th
