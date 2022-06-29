@@ -280,3 +280,12 @@ XC0 + XC1 + XC2 + … + XCX = 2X.
 Today we are finalizing the report for the mentor for review. We are dividing the work and putting up the chapters together.
 
 ## June 21th
+
+Today we reviewed our project.
+
+## June 22th
+
+Today we presented the whole project to the capstone partners.
+
+## June 23th
+
